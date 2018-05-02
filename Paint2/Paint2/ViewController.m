@@ -66,6 +66,7 @@
     _textView.text = sumString;
     
     
+    NSLog(@"hello world");
 }
 - (void)addProgressHUDWithTitle:(NSString *)lableText
 {
